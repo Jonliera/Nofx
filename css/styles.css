@@ -1,0 +1,14 @@
+.title{
+  text-align: center;
+  color: blueviolet;
+  font-size: 50px;
+}
+
+
+.sidebar{
+  float: left;
+  height: auto;
+  background-color: rgb(0, 255, 170);
+  font-size: 15px;
+  width: 50%;
+}
